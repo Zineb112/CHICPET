@@ -1,1 +1,1 @@
-# CHICPET
+# CHICPET store
